@@ -1,0 +1,26 @@
+{
+  "name": "typeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geraldo-git/API-with-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geraldo-git/API-with-typescript/issues"
+  },
+  "homepage": "https://github.com/Geraldo-git/API-with-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^18.13.0",
+    "ts-node-dev": "^2.0.0",
+    "tsconfig-paths": "^4.1.2",
+    "typescript": "^4.9.5"
+  }
+}
